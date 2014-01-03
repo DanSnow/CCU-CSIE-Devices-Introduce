@@ -7,6 +7,6 @@ for($i=0;$i<5;$i++){
   if($i % 3 == 0) echo "</tr>\n<tr>";
 }
 echo "</tr>";
->
+?>
   </table>
 </div>
