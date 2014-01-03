@@ -2,6 +2,9 @@
     <head>
         <title>系上資源簡介</title>
         <meta content="text/html" charset="utf-8" http-equiv="content-type" />
+        <script src="js/jquery-1.10.2.min.js"></script>
+        <script src="js/lightbox-2.6.min.js"></script>
+        <link href="css/lightbox.css" rel="stylesheet" />
         <script src="js/jquery-2.0.3.min.js" ></script>
         <link href="js/shadowbox-3.0.3/shadowbox.css" rel="stylesheet" type="text/css" />
         <script src="js/shadowbox-3.0.3/shadowbox.js" ></script>
