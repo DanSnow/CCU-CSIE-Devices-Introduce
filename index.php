@@ -39,7 +39,7 @@
                               $("#mainFrame").click(function() {
                                 });
             });
-
+            Shadowbox.init();
         </script>
     </head>
     <body onselectstart="return false">
