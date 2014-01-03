@@ -1,4 +1,4 @@
-<div style="center">
+<div align="center">
   <table>
 <?php
 for($i=0;$i<5;$i++){
