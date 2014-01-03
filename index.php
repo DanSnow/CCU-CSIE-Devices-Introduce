@@ -5,9 +5,9 @@
         <script src="js/jquery-1.10.2.min.js"></script>
         <script src="js/lightbox-2.6.min.js"></script>
         <link href="css/lightbox.css" rel="stylesheet" />
-        <script src="js/jquery-2.0.3.min.js" ></script>
-        <link href="js/shadowbox-3.0.3/shadowbox.css" rel="stylesheet" type="text/css" />
-        <script src="js/shadowbox-3.0.3/shadowbox.js" ></script>
+//        <script src="js/jquery-2.0.3.min.js" ></script>
+//        <link href="js/shadowbox-3.0.3/shadowbox.css" rel="stylesheet" type="text/css" />
+//        <script src="js/shadowbox-3.0.3/shadowbox.js" ></script>
         <style>
 
         </style>
@@ -38,11 +38,11 @@
             // document.onkeydown=OnDeny();
             // }
             // document.oncontextmenu=new Function("return false");
-            $(document).ready(function() {
-                              $("#mainFrame").click(function() {
-                                });
-            });
-            Shadowbox.init();
+            //$(document).ready(function() {
+            //                  $("#mainFrame").click(function() {
+            //                    });
+            //});
+            //Shadowbox.init();
         </script>
     </head>
     <body onselectstart="return false">
