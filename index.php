@@ -43,10 +43,10 @@
         </script>
     </head>
     <body onselectstart="return false">
-        <center><a href="#" onclick='$("#mainFrame").load("./509.html")'>實驗室</a>&nbsp;&nbsp;
-          <a onclick='$("#mainFrame").load("./401.html")' href="#">401</a>&nbsp;&nbsp;
-          <a href="#" onclick = '$("#mainFrame").load("./206.html")'>206</a></center>&nbsp;&nbsp;
-          <a href="#" onclick = '$("#mainFrame").load("./003c.html")'>003c</a></center>
+        <center><a href="#" onclick='$("#mainFrame").load("./509.php")'>實驗室</a>&nbsp;&nbsp;
+          <a onclick='$("#mainFrame").load("./401.php")' href="#">401</a>&nbsp;&nbsp;
+          <a href="#" onclick = '$("#mainFrame").load("./206.php")'>206</a>&nbsp;&nbsp;
+          <a href="#" onclick = '$("#mainFrame").load("./003c.php")'>003c</a></center>
         <div id="mainFrame"></div>
     </body>
 </html>
